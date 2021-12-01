@@ -15,3 +15,7 @@ Solution: ['3*1=3', '3*2=6']
 Solution: ['3/1=3', '3*2=6']
 *A total of 6 solutions were found!*
 ```
+
+The game appears to still be in prototype stage, and only appears in the nytimes mobile app.  It's possible it hasn't been rolled out to everyone yet. Here are a few screenshots to show what it is like:
+
+![Screenshot](Screenshot_20211201-081407_NYTimes.jpg)![Screenshot](Screenshot_20211201-081420_NYTimes.jpg)![Screenshot](Screenshot_20211201-081438_NYTimes.jpg)
